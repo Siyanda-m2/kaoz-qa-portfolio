@@ -4,3 +4,7 @@ __pycache__/
 reports/
 *.pyc
 .env
+allure-2.27.0.tgz
+allure-2.27.0/
+reports/allure-results/
+reports/allure-report/
