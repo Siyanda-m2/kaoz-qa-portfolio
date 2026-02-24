@@ -106,6 +106,7 @@ explorer.exe reports/report.html
 - [ ] Add inventory page tests
 - [ ] Add checkout flow tests  
 - [ ] Integrate Allure reporting
+- [ ] Switch to git flow branching strategy to avoid working on main
 - [ ] Add performance testing with Locust
 - [ ] Dockerize the test suite
 
